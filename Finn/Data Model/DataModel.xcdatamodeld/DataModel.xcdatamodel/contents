@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CoreItem" representedClassName="CoreItem" syncable="YES" codeGenerationType="class">
+        <attribute name="coreId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coreImg" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="coreLocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coreName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="corePrice" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CoreItem" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
